@@ -31,7 +31,13 @@ https://m3u.ibert.me/fmml_ipv6.m3u
 https://live.catvod.com/tv.m3u UA="Goiptv/8.8.8"
 https://myernestlu.github.io/zby.txt
 https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-
+https://liang272.github.io/iptv-guardian/live.m3u
+https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all.m3u8
+https://raw.githubusercontent.com/upleung/IPTV-M3U-Claw/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/zzz64927707/iptv-sub/refs/heads/main/output/iptv.m3u
+https://raw.githubusercontent.com/gchust/iptv-daily/main/playlists/all.m3u
+https://raw.githubusercontent.com/Hawaiine/Oasisic-IPTV/main/output/live.m3u
+https://raw.githubusercontent.com/yhc7scorpio/tv-sources/refs/heads/main/live.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
