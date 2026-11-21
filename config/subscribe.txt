@@ -38,6 +38,10 @@ https://raw.githubusercontent.com/zzz64927707/iptv-sub/refs/heads/main/output/ip
 https://raw.githubusercontent.com/gchust/iptv-daily/main/playlists/all.m3u
 https://raw.githubusercontent.com/Hawaiine/Oasisic-IPTV/main/output/live.m3u
 https://raw.githubusercontent.com/yhc7scorpio/tv-sources/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8
+https://raw.githubusercontent.com/yy-niuma/live-tv/main/output/all_merged.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
