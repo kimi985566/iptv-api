@@ -2,3 +2,10 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+txmov2.a.kwimgs.com
+http://183.94.146.79:9901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0
+125.94.244.29:2101
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+https://event.pull.hebtv.com/jishi/cp1.m3u8
