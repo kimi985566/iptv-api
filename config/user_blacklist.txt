@@ -1,0 +1,10 @@
+# IPTV-API 审核后黑名单：保留当前用户规则，不从名称冲突机械新增规则。
+# 每条规则都是 URL 子串匹配；新增规则必须有内容级实测证据。
+
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+txmov2.a.kwimgs.com
+http://183.94.146.79:9901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0
+125.94.244.29:2101
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+https://event.pull.hebtv.com/jishi/cp1.m3u8
